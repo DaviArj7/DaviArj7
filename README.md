@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Davi Araújo 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/linkedin.com/in/davi-araújo-44a8aa2a9/)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/_arjdavi)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/https:/_arjdavi/)
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviArj7&show_icons=true&theme=tokyonight)
 
